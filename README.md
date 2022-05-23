@@ -1,2 +1,3 @@
-# dio-desafio
-Desafio de projeto Git/GitHub
+# Desafio da dio Git/GitHub
+
+- testando conexão 
