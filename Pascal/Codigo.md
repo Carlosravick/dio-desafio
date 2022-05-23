@@ -1,4 +1,4 @@
-# Codigo cronometro pascal 😎🎈💻
+# Código cronômetro pascal 😎🎈💻
 - Program Pzim ;
 - var tempo:integer;
 Begin
